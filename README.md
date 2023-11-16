@@ -44,7 +44,7 @@ Continuously updating the model with new, high-quality data can help keep it ali
 ### Mitigating Bias: 
 Actively working to identify and mitigate biases in the training data can prevent the model from learning and perpetuating incorrect or misleading information.
 
-### Human Oversight: 
+### Human-in-the-Loop System: 
 Implementing a human-in-the-loop system where outputs are regularly reviewed and corrected by human experts can help catch and rectify hallucinations, and this feedback can be used to further train and refine the model.
 
 ### Transparent Model Limitations: 
